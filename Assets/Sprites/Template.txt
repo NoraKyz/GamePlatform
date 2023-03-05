@@ -1,0 +1,20 @@
+﻿1.Enemy
+    Patrol
+    *Attack on sight
+    *Health
+2.Player
+    *Health
+    Mana
+    Movement based on input
+    Skill
+    Attack by jump head
+    Upgrade
+3. NPC
+    Shop item
+    Learn skill
+4.Trap
+    Attack when player touch it
+    *Attack on sight
+5.Item
+    Coin
+    Box
